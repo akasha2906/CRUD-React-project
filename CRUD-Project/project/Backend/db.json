@@ -1,0 +1,82 @@
+{
+  "employee": [
+    {
+      "cname": "Sri ram",
+      "csalary": "50000",
+      "ccompany": "mervice",
+      "id": "5107"
+    },
+    {
+      "cname": "Dinesh",
+      "csalary": "741852",
+      "ccompany": "asdghjk",
+      "id": "fec1"
+    },
+    {
+      "cname": " Akash A",
+      "csalary": "25000",
+      "ccompany": "zoho",
+      "id": "efb0"
+    },
+    {
+      "cname": "Azik bhai",
+      "csalary": "28000",
+      "ccompany": "maven",
+      "id": "23bd"
+    },
+    {
+      "id": "cc6f",
+      "cname": "chandhru",
+      "csalary": "50000",
+      "ccompany": "tcs"
+    },
+    {
+      "id": "bd6d",
+      "cname": "arthi a",
+      "csalary": "450000",
+      "ccompany": "post office"
+    },
+    {
+      "id": "13b4",
+      "cname": "pooja a",
+      "csalary": "50000",
+      "ccompany": "wipro"
+    },
+    {
+      "id": "0257",
+      "cname": "Ahil A",
+      "csalary": "45000",
+      "ccompany": "brotherhood"
+    },
+    {
+      "id": "8c44",
+      "cname": "priya dharshini",
+      "csalary": "43000",
+      "ccompany": "cts"
+    },
+    {
+      "id": "96b3",
+      "cname": "selva s",
+      "csalary": "25000",
+      "ccompany": "flacon"
+    },
+    {
+      "id": "2d1f",
+      "cname": "ram kumar",
+      "csalary": "30000",
+      "ccompany": "Rnd constraction"
+    },
+    {
+      "id": "b584",
+      "cname": "uthyan",
+      "csalary": "50000",
+      "ccompany": "ncr company"
+    },
+    {
+      "id": "6e28",
+      "cname": "jai aswin",
+      "csalary": "35000",
+      "ccompany": "antonys"
+    }
+  ]
+}
